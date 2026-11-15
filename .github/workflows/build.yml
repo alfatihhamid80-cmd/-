@@ -21,7 +21,7 @@ jobs:
           java-version: '17'
 
       - name: Setup Android
-        uses: uses: android-actions/setup-android@v4
+        uses: android-actions/setup-android@v4
         with:
           accept-android-sdk-licenses: true
 
